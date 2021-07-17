@@ -15,8 +15,8 @@
 ### Create Executables
 
 ```bash
-chmod -x ./install.sh
-chmod -x ./brew.sh
+chmod +x ./install.sh
+chmod +x ./brew.sh
 ```
 
 ### Run Script
