@@ -12,3 +12,5 @@ brew install --cask spotify
 brew install --cask discord
 brew install --cask google-backup-and-sync
 brew install --cask visual-studio-code
+brew install --cask spotmenu
+
