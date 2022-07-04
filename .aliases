@@ -11,3 +11,7 @@ alias clean='rm -rf ~/.Trash/*; rm -rf ~/Downloads/*'
 # Show/hide hidden files in Finder
 alias show="defaults write com.apple.finder AppleShowAllFiles -bool true && killall Finder"
 alias hide="defaults write com.apple.finder AppleShowAllFiles -bool false && killall Finder"
+
+# tmux
+alias vim="nvim"
+alias tk="tmux kill-server"
